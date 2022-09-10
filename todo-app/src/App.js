@@ -14,7 +14,7 @@ class App extends Component {
     return (
       <div className="App">
         {/*(Counter/>*/}
-        {console.log(Hello)}
+        {/*console.log(Hello)*/}
         <TodoApp/>
       </div>  
     );

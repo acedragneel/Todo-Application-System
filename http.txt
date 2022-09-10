@@ -1,0 +1,5 @@
+http://localhost:8080/authenticate
+
+http://localhost:8080/hello
+
+Authorization Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhYmhpIiwiZXhwIjoxNjM2NjQyOTMzLCJpYXQiOjE2MzYwMzgxMzN9._WCKEDKa2RzDWoZYHKEnOnE_owIpRaAwj2TREXa-7ZyeTVHObYWxFsl9b07MjQSFCAekgFn8OyEH-Hz_iArJWQ
